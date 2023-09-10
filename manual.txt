@@ -1,0 +1,12 @@
+1. Первым делом представляемся Gitу
+git config --global user.name
+git config --global user.email
+2. Инициализация репозитория
+git init
+3. Проверка статуса репозитория
+git status
+4. Добавление файлов
+git add file.name
+5. Создание коммита 
+git commit -m "Бла бла бла"
+
